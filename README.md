@@ -1,5 +1,5 @@
 # Learning-typescript
-A small repository That give you summary of how to learn type-script from **"hello world"** to **"Triple-Slash Directives"** the purpose of esta repository is defined the basic to begin angular2.
+A small repository That give you summary of how to learn type-script from **"hello world"** to **"Triple-Slash Directives"** the purpose of at the repository is defined the basic to begin angular2.
 ## Table of Content 
 
 1. Introduction to typescript.
